@@ -1,0 +1,58 @@
+/**
+ * @name Nier-Auto-Mata
+ * @author Psyro#0001
+ * @version 2.0.0
+ * @description Nier Auto Mata Theme
+ * @invite Mrw85HZdXx
+ * @authorId 745596138580607007
+ * @website https://psyro.me/
+*/
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;300;400;500;700&display=swap');
+@import url('https://discordstyles.github.io/FrostedGlass/base.css');
+@import url('https://discord-custom-covers.github.io/usrbg/snippets/userPopouts.css');
+@import url('https://discord-custom-covers.github.io/usrbg/snippets/modals.css');
+@import url('https://monstrousdev.github.io/themes/addons/user-tags.css');
+@import url('https://gibbu.github.io/BetterDiscord-Themes/addons/windows-titlebar.css');
+@import url('https://gibbu.github.io/BetterDiscord-Themes/RadialStatus/base.css');
+
+:root {
+  --background-image: url('https://cdn.discordapp.com/attachments/793853889425571882/826454741378531328/unknown.png');
+  --background-image-blur: 2px;
+  --background-image-size: cover;
+  --background-image-position: center center;
+  --popout-modal-image: url('https://cdn.discordapp.com/attachments/793853889425571882/826454741378531328/unknown.png');
+  --popout-modal-blur: 0px;
+  --popout-modal-size: cover;
+  --popout-modal-position: center center;
+  --home-button-image: url('https://cdn.discordapp.com/attachments/793853889425571882/826454741378531328/unknown.png');
+  --home-button-size: cover;
+  --home-button-position: center center;
+  --serverlist-brightness: 0.78;
+  --left-brightness: 0.78;
+  --middle-brightness: 0.78;
+  --right-brightness: 0.2;
+  --popout-modal-brightness: 0.86;
+  --gradient-primary: 97,44,192;
+  --gradient-secondary: 28,58,224;
+  --scrollbar-colour: rgba(255,255,255,0.05);
+  --link-colour: #008bed;
+  --gradient-direction: 210deg;
+  --tint-colour: 103,58,183;
+  --tint-brightness: 0.16;
+  --font: Poppins;
+  --window-padding: 0px;
+  --window-roundness: 0px;
+  --show-gift-gif-buttons: block;
+  --update-notice-1: none;
+  --rs-small-spacing: 0px;
+  --rs-large-spacing: 2px;
+  --rs-width: 2.5px;
+  --rs-avatar-shape: 44%;
+  --rs-online-color: #43b581;
+  --rs-idle-color: #faa61a;
+  --rs-dnd-color: #f04747;
+  --rs-offline-color: #636b75;
+  --rs-streaming-color: #643da7;
+  --rs-invisible-color: #747f8d;
+}
