@@ -20,10 +20,6 @@
 Download it an drag and drop it to yout themes folder.
 ```
 
-
-##Example
-![Screenshoot](https://cdn.psyro.de/attachments/unknown.png)
-
 ## Author
 
 👤 **Psyro**
@@ -33,6 +29,14 @@ Download it an drag and drop it to yout themes folder.
 * Website Gibbu: https://gibbu.me/editor
 * GitHub Gibbu: https://github.com/Gibbu
 * GitHub: [@Psyro](https://github.com/psyro770)
+
+
+## Examples
+
+![Rias](https://cdn.psyro.de/attachments/unknown.png)
+
+![NierAutoMata](https://cdn.psyro.de/attachments/nier.png)
+
 
 ## Show your support
 
