@@ -36,6 +36,7 @@ Download it an drag and drop it to yout themes folder.
 
 ![NierAutoMata](https://cdn.psyro.de/attachments/nier.png)
 
+![02](https://cdn.psyro.de/attachments/02.png)
 
 ## Show your support
 
