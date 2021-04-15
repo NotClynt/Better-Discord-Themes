@@ -1,8 +1,7 @@
-<h1 align="center">Welcome to my Better Discord themes 👋</h1>
+<h1 align="center">Welcome to Better Discord themes </h1>
 <p>
   </a>
   </a>
-    <img alt="Maintenance" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg" />
   </a>
   <a href="#" target="_blank">
   </a>
